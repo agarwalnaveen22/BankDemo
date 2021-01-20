@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test header container component match snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#6db2f7",
+      "height": 98.68421052631578,
+      "justifyContent": "center",
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#ffffff",
+        "fontSize": 49.34210526315789,
+      }
+    }
+  />
+</View>
+`;
